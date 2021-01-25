@@ -1,2 +1,2 @@
 # holbertonschool-zero_day
-This is a project that is part of the week zero at Holberton School
+I'm now a Holberton Student, this is my first repository as a full-stack engineer
